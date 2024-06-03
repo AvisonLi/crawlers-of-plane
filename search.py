@@ -24,7 +24,7 @@ from tkhtmlview import HTMLLabel
 import webbrowser
 import os
 
-API_KEY = 'AIzaSyDxFfFC6vBzAwCAbAA8cQ8ay2O-3hPRL1w'
+API_KEY = '' # api is deleted for safety problem if you want that function you can apply api yourself
 
 map_client = googlemaps.Client(API_KEY)
 
