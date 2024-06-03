@@ -2,7 +2,7 @@
 
 this is an app that uses crawlers to get information of planes from 3 websites
 
-pls pip install all modules before you use it to make it workable
+pls pip install all modules before you use it which can make it workable
 
 * download the zip file if you wanna use
 * The map function was removed because of safety problems
